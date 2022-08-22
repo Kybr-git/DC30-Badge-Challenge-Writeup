@@ -235,9 +235,9 @@ This is a reference to another famous hacker movie "Sneakers" (1992).  The "Key"
 `ANSWER:` https://defcon.org/badge/30/urerjrtbntnva/eminor  
 
 4) We are given the text "DC30 - DC1"  
-This is a time-based math puzzle asking us for the amount of time passed between DEF CON 30 and DEF CON 1.  If we inspect the back of the Vendor (purple) badge, we find some art referencing DC1 and DC30, along with two timestamps.  
+This is a time-based math puzzle.  If we inspect the back of the Vendor (purple) badge, we find some art referencing DC1 and DC30, along with two numbers:  
 ![Vendor Back](/assets/vendorback.jpg)  
-The two numbers we see, if treated as Epoch times, correspond to the opening ceremonies of DEF CON 1 and DEF CON 30.  DEF CON 1 was held in July of 1993, and DEF CON 30 in August 2022.  Interesing note here: the DEF CON archives list DEF CON 1's date as JUNE of 1993, but the program itself shows JULY of 1993:  
+The two numbers we see are timestamps in Epoch time.  They correspond to the opening ceremonies of DEF CON 1 and DEF CON 30.  DEF CON 1 was held in July of 1993, and DEF CON 30 in August 2022.  Interesing note here: the DEF CON archives list DEF CON 1's date as JUNE of 1993, but the program itself shows JULY of 1993:  
 ![DC1 Program](/assets/dc1program.png)  
 If we subtract these numbers we get 1660323600 - 742323600 = 918000000  
 `ANSWER:` https://defcon.org/badge/30/urerjrtbntnva/eminor/918000000  
