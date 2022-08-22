@@ -135,7 +135,7 @@ Challenge Part 2D: Dan
 ===
 1) YИИEႱ's message said "Greenwich, Manhattan"  
 Every DC30 badge has at least four built-in sounds available in "Play" mode: Piano, Violin, Clarinet, and Dog.  Several badge types also have a fifth default sound option: for example, the Vendor (purple) badge has a "Cha-Ching" option that makes a cash register sound, the Goon (red) badge has a "Make a hole!" sound, etc.  The Village (orange) badge has the following fifth sound option called "Dial":  
-███ Dial wav  
+https://user-images.githubusercontent.com/22137377/185827130-9b8e777b-7a3a-4f48-b05f-5935ee9eaa99.mp4  
 <sup>NOTE: this file was obtained by reverse engineering the village badge firmware, see the wiki for links to more badge firmware</sup>  
 This is an 8 digit DTMF tone (https://en.m.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) that decodes to "01906967", which turned out to be Dan's first URL.  We believe "Greenwich, Manhattan" is a clue for Dan's second challenge.  
 `ANSWER: https://defcon.org/badge/30/01906967`  
