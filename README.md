@@ -54,7 +54,7 @@ That's our key to ordering the other 8 badges by color: Purple, Orange, White, W
 
 Once in this order, the measures form the beginning of the song "Peer Gynt Suite No.1".  
 Playing these notes on the badge in "Play" mode unlocks Challenge Part 2:  
-`ANSWER: in Play mode, play the following at any speed - GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
+`ANSWER: in Play mode, play these notes at any speed: GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
 
 
 https://user-images.githubusercontent.com/22137377/185831822-232a2285-28f1-4f51-860c-354b4d5b5660.mp4
@@ -275,9 +275,10 @@ If you go to that site and type in your badge ID (you can see your badge ID afte
 <a name="after"></a>
 Afterthoughts
 ===
-If you've made it this far, I'd like to thank you so much for your time.  I hope you learned something interesting on the way.  And I REALLY hope you watched the Trevor video, if you've never seen it before.  
-<br/>
-Being sentimental for a moment: winning this year's badge challenge has been absolutely overwhelming.  This hits so close to home for me - many years ago I randomly stumbled across an article on the internet that turned out to be the badge challenge writeup from a past DEF CON.  It was that writeup that not only inspired me to start attending DEF CON, but also to start playing regularly in CTFs and participate in challenges like this as often as I can.  It has probably had a huge impact on my life and career, come to think of it.  And now to have actually won this contest, and to be sitting here, writing the very same article that first inspired me... I'm at a loss for words.  It's surreal!   <br/>  
+If you've made it this far, I'd like to thank you for your time.  I hope you learned something interesting on the way.  And I REALLY hope you watched the Trevor video, if you've never seen it before.  
+  
+Being sentimental for a moment: winning this year's badge challenge has been absolutely overwhelming.  This hits so close to home for me - many years ago I randomly stumbled across an article on the internet that turned out to be the badge challenge writeup from a past DEF CON.  It was that writeup that not only inspired me to start attending DEF CON, but also to start playing regularly in CTFs and participate in challenges like this as often as I can.  It has probably had a huge impact on my life and career, come to think of it.  And now to have actually won this contest, and to be sitting here, writing the very same article that first inspired me... I'm at a loss for words.  
+  
 Of course at the end of the day, credit belongs to the badge hacking community.  It was a group effort to solve these challenges - none of us could have done it without all the collaboration and teamwork we had.  It was a joy.  I look forward to working with you all next year!  
 <br/>  
 ![Black Badge Front](/assets/bbf.jpg)  
