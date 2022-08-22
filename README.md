@@ -40,7 +40,12 @@ That's our key to ordering the other 8 badges by color: Purple, Orange, White, W
 ![Badge faceplates](/assets/fronts2.jpg)  
 Once in this order, the measures form the beginning of the song "Peer Gynt Suite No.1".  Playing these notes on the badge in "Play" mode unlocks Challenge Part 2:  
 `GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
-███ VIDEO OF P1 UNLOCK  
+
+
+https://user-images.githubusercontent.com/22137377/185831822-232a2285-28f1-4f51-860c-354b4d5b5660.mp4
+
+
+
 
 <br/><br/>
 <a name="2"></a>
