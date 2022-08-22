@@ -76,7 +76,7 @@ The hookah URL presents us with a solid blue screen, with nothing interesting in
 
 3) Image of the caterpillar  
 We are given a picture of the hookah-smoking-caterpillar from Alice in Wonderland. Upon downloading the image and inspecting it's metadata, we find that the "OwnerName" attribute has a curious value of `9dFDfOi_-ss`.  
-███ Pic of metadata  
+![Metadata](/assets/caterpillardata.png)  
 This is a video reference for a YouTube URL, so we browse to https://www.youtube.com/watch?v=9dFDfOi_-ss which gives us a video of our smoking caterpillar reciting the poem "How Doth the Little Crocodile"  
 `ANSWER: https://defcon.org/badge/30/hookah/caterpillar/howdoththelittlecrocodile`
 
@@ -129,7 +129,7 @@ We are given an image of the Beastie Boys from their album "No Sleep Till Kawasa
 
 3) Intergalactic  
 We are given an audio file which plays "Night on Bald Mountain" followed by "Intergalactic".  If we download and inspect the audio file, we can see there is a comment in the metadata reading "v=N5aAu8CCQY0".  
-███ Pic of comment  
+![MOAR metadata](/assets/intergalactic.png)  
 Once again this a YouTube video URL, which leads us to a talk on phone phreaking from DEF CON 7.  
 https://www.youtube.com/watch?v=N5aAu8CCQY0&ab_channel=DEFCONConference  
 Searching the DEF CON archives (https://defcon.org/html/defcon-7/defcon-7-pre.html#SpeakingSchedule) shows us that this talk was given on Friday, July 9, 1999 at 4:00 PM PST, which is 11:00 PM in GMT.  Converting this to Epoch time gives us 931561200.  
@@ -201,7 +201,7 @@ Taking the ROT13 (aka Caesar cipher) of the string "herewegoagain" gives us "ure
 
 2) We are given the text "(Red-Yellow)(Blue-White)"  
 There are small numbers hidden on the faceplates of several of the badges that cannot be seen unless the faceplate is removed.  Taking these numbers from their respective badges gives us red = 3205272, yellow = 3203902, blue = 3205274, and white = 3203901.  From there it's math: (3205272-3203902)(3205274-3203901) = (1370)(1373) = 1881010.  
-███ tiny numbers  
+![Tiny Numbers](/assets/smallnumbers2.jpg)  
 NOTE: the URL https://defcon.org/badge/30/urerjrtbntnva/1881010 gives us a 403 instad of the normal 404 "not found" page, which tells us that we're correct but we're not looking for a URL for this puzzle.  Instead, we're meant to call the number 188-1010 to get our next clue.  
 `ANSWER: Call the number "1881010" on the contest phones to get our next challenge`  
 
