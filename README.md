@@ -34,7 +34,7 @@ Challenge Part 1: Gathering Notes
 The first challenge can be found by selecting the "Challenge" option on the main menu.  We are presented the following text:  
 `Collect the Measusres, Break the Silence, Continue the Journey`  
 <sup>NOTE: The misspelling of the word Measures was accidental and not relevant to the challenges.  </sup>  
-███ PIC OF CHALLENGE 1  
+![Challenge One](/assets/c1.jpg)  
 This is a reference to the musical measures found on the faceplate of the badge itself.  There are 9 different colored badge types at DEF CON, and each type had something different on the faceplate.  Gathering photos of all 9, we find that 8 have music and 1 (the grey CFP badge) has letters spelling `POWWYGBR`  
 That's our key to ordering the other 8 badges by color: Purple, Orange, White, White, Yellow, Green, Blue, Red.  
 ███ FACEPLATE PIC  
@@ -47,7 +47,7 @@ Once in this order, the measures form the beginning of the song "Peer Gynt Suite
 Challenge Part 2: Calling YИИEႱ
 ===
 After playing Peer Gynt Suite, the Challenge option on the badge now shows us the message `Call YИИEႱ` and our keyboard now plays dial tones instead of notes.  "YИИEႱ" is a reference to the song "867-5309 / Jenny" by Tommy Tutone, and since Jenny is written backwards, we're meant to dial her number backwards: 903-5768.  Dialing this number on the badge itself does nothing, there were physical telephones in the Contests area of the convention that needed to be used for the remainder of these challenges.  
-███ Pic of challenge area  
+![The Contest Area Phones](/assets/contestarea.jpg)  
 Calling 903-5768 on these phones gave us a series of 5 clues about 5 missing friends:  
 `Alice - Was last seen shopping for a new water pipe`  
 `Bob - Little Bobby turn tables, dropped himself`  
@@ -216,7 +216,7 @@ Dialing this number on the contest area phones led to a recording of the song "T
 
 6) The cipher  
 We are given a long list of sets of numbers, each line consisting of 4 numbers separated by hyphens.  This is a book cipher, where the four numbers in each line represent page number, paragraph number, line number, and word number respectively.  The book in question is the DEF CON 30 program.  Converting each line to it's respective word produced the following wordlist:  
-███ wordlist   
+![The book cypher](/assets/bookcypher.png)    
 Now looking at the first letter of each word, backwards, we see the lyrics to "Never Gonna Give You Up".  
 `ANSWER: https://defcon.org/badge/30/urerjrtbntnva/eminor/918000000/thefinalcountdown/nevergonnagiveyouupnevergonnaletyoudown`  
 
