@@ -12,12 +12,13 @@ Table of Contents
 * [Challenge Part 2E: Eve](#2E)
 * [Challenge Part 2F: Trevor](#2F)
 * [Challenge Part 3: The Final Thread](#3)
+* [Afterthoughts](#after)
 
 <br/><br/>
 <a name="intro"></a>
 Intro
 ===
-Hello there!  I'm Pete - aka Kybr - and this is my writeup for the DEF CON 30 badge challenge.  This year's challenge was heavily focused on music and hacker pop culture, which I feel made it more widely accessible than some previous badge challenges.  We had a huge crew of hackers in person and on Discord working at the badge from the moment they started handing them out on Thursday morning all the way through Sunday afternoon when we finally finished the last challenge just four hours before DEF CON ended.  Big thanks go out to Mike and crew at MKFactor for the truly unique and beautiful badge, and also for the many hours of ~~pain and suffering~~ fun!
+Hello there!  I'm Pete - aka Kybr - and this is my writeup for the DEF CON 30 badge challenge.  This year's challenge was heavily focused on music and hacker pop culture, which I feel made it more widely accessible than some previous badge challenges.  We had a huge crew of hackers in person and on Discord working at the badge from the moment they started handing them out on Thursday morning all the way through Sunday afternoon, when we finally finished the last challenge just four hours before DEF CON ended.  Big thanks go out to Mike and crew at MKFactor for the truly unique and beautiful badge, and also for the many hours of ~~pain and suffering~~ fun!
 
 We divided the challenge into 3 parts: gathering notes, gathering friends, and the final thread. You can look over our documentation here:  
 https://dc30badge.fandom.com/wiki/DC30Badge_Wiki  
@@ -39,7 +40,7 @@ This is a reference to the musical measures found on the faceplate of the badge 
 That's our key to ordering the other 8 badges by color: Purple, Orange, White, White, Yellow, Green, Blue, Red.  
 ![Badge faceplates](/assets/fronts2.jpg)  
 Once in this order, the measures form the beginning of the song "Peer Gynt Suite No.1".  Playing these notes on the badge in "Play" mode unlocks Challenge Part 2:  
-`GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
+`ANSWER: in Play mode, play the following at any speed - GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
 
 
 https://user-images.githubusercontent.com/22137377/185831822-232a2285-28f1-4f51-860c-354b4d5b5660.mp4
@@ -169,8 +170,8 @@ Challenge Part 2E: Eve
 This is a simple riddle referencing the synapses of the brain.  
 `ANSWER: https://defcon.org/badge/30/synapse`  
 
-2) Image of a sattelite  
-We are given an image of a sattelite in orbit.  Upon downloading and inspecting the image, we find that there is a hidden PCAP (network traffic capture file) embedded in the image file, extracting and studying the PCAP shows a single ping to an IP address 10.48.29.234  
+2) Image of a satellite  
+We are given an image of a satellite in orbit.  Upon downloading and inspecting the image, we find that there is a hidden PCAP (network traffic capture file) embedded in the image file, extracting and studying the PCAP shows a single ping to an IP address 10.48.29.234  
 ![The ping in question](/assets/pcap.png)  
 `ANSWER: https://defcon.org/badge/30/synapse/10.48.29.234`  
 
@@ -228,6 +229,7 @@ Dialing this number on the contest area phones led to a recording of the song "T
 We are given a long list of sets of numbers, each line consisting of 4 numbers separated by hyphens.  This is a book cipher, where the four numbers in each line represent page number, paragraph number, line number, and word number respectively.  The book in question is the DEF CON 30 program.  Converting each line to it's respective word produced the following wordlist:  
 ![The book cypher](/assets/bookcypher.png)    
 Now looking at the first letter of each word, backwards, we see the lyrics to "Never Gonna Give You Up".  
+(Mind the mistakes, we were in a hurry!)  
 `ANSWER: https://defcon.org/badge/30/urerjrtbntnva/eminor/918000000/thefinalcountdown/nevergonnagiveyouupnevergonnaletyoudown`  
 
 7) The final challenge  
@@ -240,8 +242,12 @@ The final question "Who died and left you in charge?" is a quote from the movie 
 `ANSWER: howdoththelittlecrocodile 23044100 intergalactic aykroyd nurv Captain Bipto`
 
 
-
-
+<br/><br/>
+<a name="after"></a>
+Afterthoughts
+===
+Winning this year's badge challenge has been an overwhelming joy.  This hits so close to home for me - many years ago I randomly stumbled across an article on the internet that turned out to be a badge challenge writeup from a past DEF CON.  It was that article that not only inspired me to start attending DEF CON, but also to start playing regularly in CTFs and participate in challenges like this as often as I can.  It has probably had a huge impact on my life and career, come to think of it.  And now to have actually won this contest, and to be sitting here, writing the very same article that first inspired me... I'm at a loss for words.  It's surreal!  
+Of course at the end of the day, credit belongs to the badge hacking community.  It was a group effort to solve these challenges - none of us could have done it without all the collaboration and teamwork.  I look forward to working with you all next year! 
 
 
 
