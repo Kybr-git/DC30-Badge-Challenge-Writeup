@@ -248,12 +248,14 @@ Afterthoughts
 ===
 If you've made it this far, thank you so much for your time!  I hope you learned something interesting on the way.  And I REALLY hope you watched the Trevor video, if you've never seen it before.  
 <br/>
-Winning this year's badge challenge has been an overwhelming joy.  This hits so close to home for me - many years ago I randomly stumbled across an article on the internet that turned out to be the badge challenge writeup from a past DEF CON.  It was that writeup that not only inspired me to start attending DEF CON, but also to start playing regularly in CTFs and participate in challenges like this as often as I can.  It has probably had a huge impact on my life and career, come to think of it.  And now to have actually won this contest, and to be sitting here, writing the very same article that first inspired me... I'm at a loss for words.  It's surreal!  <br/>  
-Of course at the end of the day, credit belongs to the badge hacking community.  It was a group effort to solve these challenges - none of us could have done it without all the collaboration and teamwork we had.  It was a joy.  I look forward to working with you all next year! 
-
-
-
-
-
+Winning this year's badge challenge has been overwhelming.  This hits so close to home for me - many years ago I randomly stumbled across an article on the internet that turned out to be the badge challenge writeup from a past DEF CON.  It was that writeup that not only inspired me to start attending DEF CON, but also to start playing regularly in CTFs and participate in challenges like this as often as I can.  It has probably had a huge impact on my life and career, come to think of it.  And now to have actually won this contest, and to be sitting here, writing the very same article that first inspired me... I'm at a loss for words.  It's surreal!   <br/>  
+Of course at the end of the day, credit belongs to the badge hacking community.  It was a group effort to solve these challenges - none of us could have done it without all the collaboration and teamwork we had.  It was a joy.  I look forward to working with you all next year!  
+<br/>  
+![Black Badge Front](/assets/bbf.jpg)  
+<br/>  
+![Black Badge Back](/assets/bbb.jpg)  
+<br/>  
+If you were at the awards ceremony, and you played music on your badge with me and the rest of the con, I just want to say: you are awesome.  
+![Award Ceremony](/assets/stage.jpg)    
 
 
