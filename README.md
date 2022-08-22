@@ -84,7 +84,7 @@ This is a video reference for a YouTube URL, so we browse to https://www.youtube
 We are given the text `When is a measure not for science?  double the common form.`  
 This is a reference to the Common Measure, a poetic metre consisting of four lines that alternates between iambic tetrameter (four metrical feet per line) and iambic trimeter (three metrical feet per line).  The poem "How Doth the Little Crocodile" is written in this meter.  The poem consists of 8 lines, and counting the feet per line gives us 4,3,4,3,4,3,4,3, so doubling that form gives us 8,6,8,6,8,6,8,6.  Since 86868686 was not a valid URL, we called that number on the contest phones and were given the unlock code for Alice (who now appears under the "Friends" menu option on the badge!)  
 `FINAL ANSWER: Call the number "86868686" on the contest phones to find Alice.`   
-███ Pic of Alice in friends  
+![Alice](/assets/alice.jpg)  
 
 <br/><br/>
 <a name="2B"></a>
@@ -114,6 +114,7 @@ The QR code gives us the text "By the Numbers".  Keeping with the theme of the l
 5) Dots and Slashes  
 The page gives us the text `./ - ../` and nothing else.  In a UNIX directory structure, "./" refers to your current directory and "../" refers to your parent directory.  In the case of our current challenge URL https://defcon.org/badge/30/logic/18002738255/988/23044100 (which is itself a reference to a directory structure), the "./" refers to 23044100 and "../" refers to 988.  Taking 23044100 minus 988 gives us 23043112.  
 `FINAL ANSWER: Call the number "23043112" on the contest phones to find Bob.`  
+![Bob](/assets/bob.jpg)  
 
 <br/><br/>
 <a name="2C"></a>
@@ -134,6 +135,7 @@ Once again this a YouTube video URL, which leads us to a talk on phone phreaking
 https://www.youtube.com/watch?v=N5aAu8CCQY0&ab_channel=DEFCONConference  
 Searching the DEF CON archives (https://defcon.org/html/defcon-7/defcon-7-pre.html#SpeakingSchedule) shows us that this talk was given on Friday, July 9, 1999 at 4:00 PM PST, which is 11:00 PM in GMT.  Converting this to Epoch time gives us 931561200.  
 `FINAL ANSWER: Call the number 931561200 on the contest phones to find Carol.`  
+![Carol](/assets/carol.jpg)  
 
 <br/><br/>
 <a name="2D"></a>
@@ -156,7 +158,8 @@ We are given an audio file which plays "Unchained Melody".  This song is perhaps
 3) Ghostbusters  
 We are given an image of the 1984 Ghostbusters.  Who ya gonna call?  Searching for the Ghostbusters' phone number gives us their current phone number 212-897-1964.  
 https://www.facebook.com/Ghostbusters/photos/theyre-ready-to-answer-your-call-dial-212-897-1964-to-get-a-very-special-ghostbu/722572714463399  
-`FINAL ANSWER: Call the number "2128971964" on the contest phones to find Dan.`
+`FINAL ANSWER: Call the number "2128971964" on the contest phones to find Dan.`  
+![Dan](/assets/dan.jpg)  
 
 <br/><br/>
 <a name="2E"></a>
@@ -181,6 +184,7 @@ We're given the text `You're eiTher a one or a zero. Alive or dea9.`  "T9" clear
 https://en.wikipedia.org/wiki/T9_(predictive_text)  
 Keeping with the AntiTrust theme, typing out the word "antitrust" in T9 gives us "268487878"  
 `FINAL ANSWER: Call the number "268487878" on the contest phones to find Eve.`  
+![Eve](/assets/eve.jpg)  
 
 <br/><br/>
 <a name="2F"></a>
@@ -190,6 +194,7 @@ Challenge Part 2F: Trevor
 Upon close inspection of the "Challenge" screen after completing Step 1, we notice that there is a single pixel in the upper-right corner of the screen which is blinking slowly.  Treating the blinks as morse code gives us `- .-. . ...- --- .-. ... -.. .- - .` which decodes to `TREVORSDATE`.  Trevor was a beloved member of the hacker community who was tragically taken from us on 9/23/2017.  
 https://www.youtube.com/watch?v=oOXcol_fFGQ&ab_channel=SAINTCON  
 `FINAL ANSWER: Call the number "923-2017" on the contest phones to find Trevor.`  
+![Trevor](/assets/trevor.jpg)  
 
 <br/><br/>
 <a name="3"></a>
