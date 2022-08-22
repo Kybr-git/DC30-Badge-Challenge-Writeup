@@ -100,9 +100,9 @@ https://en.wikipedia.org/wiki/988_Suicide_%26_Crisis_Lifeline
 
 4) Geocache over Eight  
 We are shown the symbol for Geocaching over the number 8.  Taking our answer from the previous challenge, 988, and dividing by 8 gives us 123.  The geocaching symbol is intended as a hint that there is a geocache hidden in room 123.  Upon a search of room 123, a geocaching symbol with a QR code was found.  
-███ Pic of GC QR  
+![The geocache](/assets/gc.jpg)  
 The QR code gives us the text "By the Numbers".  Keeping with the theme of the last two answers, we find the URL https://988lifeline.org/by-the-numbers/ which tells us that the Lifeline has received 23,044,100 calls (at the time of this writing).  
-███ Pic of lifeline calls  
+![That is a lot of calls](/assets/numbers.png)  
 `ANSWER: https://defcon.org/badge/30/logic/18002738255/988/23044100`  
 
 5) Dots and Slashes  
@@ -159,7 +159,7 @@ This is a simple riddle referencing the synapses of the brain.
 
 2) Image of a sattelite  
 We are given an image of a sattelite in orbit.  Upon downloading and inspecting the image, we find that there is a hidden PCAP (network traffic capture file) embedded in the image file, extracting and studying the PCAP shows a single ping to an IP address 10.48.29.234  
-███ pcap  
+![The ping in question](/assets/pcap.png)  
 `ANSWER: https://defcon.org/badge/30/synapse/10.48.29.234`  
 
 3) NURV  
