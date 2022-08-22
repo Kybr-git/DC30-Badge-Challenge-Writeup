@@ -105,8 +105,9 @@ This is a reference to the Common Measure, a poetic metre consisting of four lin
 <a name="2B"></a>
 Challenge Part 2B: Bob
 ===
-1) YИИEႱ's message said "Little Bobby turntables, dropped himself"  
+1) YИИEႱ's message said "Little Bobby turn tables, dropped himself"  
 This is a reference to the XKCD comic "Exploits of a Mom" (https://xkcd.com/327/) in which a child is given a name containing destructive SQL injection logic.  
+![Mom](/assets/mom.png)  
 `ANSWER:` https://defcon.org/badge/30/logic  
 
 2) Image of the rapper "Logic"  
@@ -158,6 +159,7 @@ Challenge Part 2D: Dan
 ===
 1) YИИEႱ's message said "Greenwich, Manhattan"  
 Every DC30 badge has at least four built-in sounds available in "Play" mode: Piano, Violin, Clarinet, and Dog.  Several badge types also have a fifth default sound option: for example, the Vendor (purple) badge has a "Cha-Ching" option that makes a cash register sound, the Goon (red) badge has a "Make a hole!" sound, etc.  The Village (orange) badge has the following fifth sound option called "Dial" (linked below)    
+![Dial](/assets/dialoption.jpg)  
 This is an 8 digit DTMF tone (https://en.m.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) that decodes to "01906967", which turned out to be Dan's first URL.  We believe "Greenwich, Manhattan" is a clue for Dan's second challenge.  
 `ANSWER:` https://defcon.org/badge/30/01906967  
 
