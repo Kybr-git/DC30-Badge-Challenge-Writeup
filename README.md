@@ -37,7 +37,7 @@ The first challenge can be found by selecting the "Challenge" option on the main
 ![Challenge One](/assets/c12.jpg)  
 This is a reference to the musical measures found on the faceplate of the badge itself.  There are 9 different colored badge types at DEF CON, and each type had something different on the faceplate.  Gathering photos of all 9, we find that 8 have music and 1 (the grey CFP badge) has letters spelling `POWWYGBR`  
 That's our key to ordering the other 8 badges by color: Purple, Orange, White, White, Yellow, Green, Blue, Red.  
-███ FACEPLATE PIC  
+![Badge faceplates](/assets/fronts2.jpg)  
 Once in this order, the measures form the beginning of the song "Peer Gynt Suite No.1".  Playing these notes on the badge in "Play" mode unlocks Challenge Part 2:  
 `GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
 ███ VIDEO OF P1 UNLOCK  
