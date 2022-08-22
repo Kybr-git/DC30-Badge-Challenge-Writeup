@@ -158,9 +158,10 @@ Searching the DEF CON archives (https://defcon.org/html/defcon-7/defcon-7-pre.ht
 Challenge Part 2D: Dan
 ===
 1) YИИEႱ's message said "Greenwich, Manhattan"  
+Greenwich, Manhattan is also known as Greenwich Village, this is a subtle hint that our next clue lies within the Village badge.  
 Every DC30 badge has at least four built-in sounds available in "Play" mode: Piano, Violin, Clarinet, and Dog.  Several badge types also have a fifth default sound option: for example, the Vendor (purple) badge has a "Cha-Ching" option that makes a cash register sound, the Goon (red) badge has a "Make a hole!" sound, etc.  The Village (orange) badge has the following fifth sound option called "Dial" (linked below)    
 ![Dial](/assets/dialoption.jpg)  
-This is an 8 digit DTMF tone (https://en.m.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) that decodes to "01906967", which turned out to be Dan's first URL.  We believe "Greenwich, Manhattan" is a clue for Dan's second challenge.  
+This is an 8 digit DTMF tone (https://en.m.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) that decodes to "01906967"  
 `ANSWER:` https://defcon.org/badge/30/01906967  
 
 
@@ -234,7 +235,11 @@ This is a reference to another famous hacker movie "Sneakers" (1992).  The "Key"
 `ANSWER:` https://defcon.org/badge/30/urerjrtbntnva/eminor  
 
 4) We are given the text "DC30 - DC1"  
-This is a time-based math puzzle asking us for the amount of time passed between DEF CON 30 and DEF CON 1.  DEF CON 1 was held in June of 1993, and DEF CON 30 in August 2022.  Ignoring the specific day of the month of the conventions, the time that passed between DC1 and DC30 (July 1993 through June 2022) is 10,625 days, or 918,000,000 seconds (918000000 in Epoch time).  
+This is a time-based math puzzle asking us for the amount of time passed between DEF CON 30 and DEF CON 1.  If we inspect the back of the Vendor (purple) badge, we find some art referencing DC1 and DC30, along with two timestamps.  
+![Vendor Back](/assets/vendorback.jpg)  
+The two numbers we see, if treated as Epoch times, correspond to the opening ceremonies of DEF CON 1 and DEF CON 30.  DEF CON 1 was held in July of 1993, and DEF CON 30 in August 2022.  Interesing note here: the DEF CON archives list DEF CON 1's date as JUNE of 1993, but the program itself shows JULY of 1993:  
+![DC1 Program](/assets/dc1program.png)  
+If we subtract these numbers we get 1660323600 - 742323600 = 918000000  
 `ANSWER:` https://defcon.org/badge/30/urerjrtbntnva/eminor/918000000  
 
 5) We are given a picture from the movie "The Little Rascals"  
