@@ -207,7 +207,7 @@ This is a time-based math puzzle asking us for the amount of time passed between
 5) We are given a picture from the movie "The Little Rascals"  
 A reference within a reference, "what's the number to 911?" is a reference to an episode of "The IT Crowd" where they change the emergency service number from 999 to 01189998819991197253  
 https://www.youtube.com/watch?v=HWc3WY3fuZU&ab_channel=TheITCrowd  
-Dialing this number led to a recording of the song "The Final Countdown"  
+Dialing this number on the contest area phones led to a recording of the song "The Final Countdown"  
 `ANSWER: https://defcon.org/badge/30/urerjrtbntnva/eminor/918000000/thefinalcountdown`  
 
 6) The cipher  
