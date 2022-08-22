@@ -12,6 +12,7 @@ Table of Contents
 * [Challenge Part 2E: Eve](#2E)
 * [Challenge Part 2F: Trevor](#2F)
 * [Challenge Part 3: The Final Thread](#3)
+* [What if I missed the phones at the con?](#miss)
 * [Afterthoughts](#after)
 
 <br/><br/>
@@ -250,7 +251,18 @@ The subdirectories needed are: howdoththelittlecrocodile (Alice), 23044100 (Bob)
 The final question "Who died and left you in charge?" is a quote from the movie "Spaced Invaders", the answer to the question is "Captain Bipto!"  
 ```json
    FINAL ANSWER: howdoththelittlecrocodile 23044100 intergalactic aykroyd nurv Captain Bipto
-```
+```  
+
+<br/><br/>
+<a name="miss"></a>
+What if I missed the contest area? What can I do without the phones?
+===
+One of the members of the badge hacking discord managed to reverse engineer the software on the badge that accepts the 6 friend codes, and they were kind enough to post it online at https://replit.com/@numinit/DC30Keygen?v=1  
+  
+Hit play, then type this in: `bundle exec ruby main.rb <yourbadgeID>`  
+Example: `bundle exec ruby main.rb 3680247087`  
+
+If you go to that site and type in your badge ID (you can see your badge ID after playing Peer Gynt) it should spit out the 6 codes that you need to dial using the piano keys after selecting the Challenge menu option.  Once you've unlocked all 6 friends, your badge is at it's "win" condition and there is nothing further for you to do.  Enjoy the flashing lights and dancing friends :)
 
 
 <br/><br/>
