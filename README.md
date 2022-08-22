@@ -13,6 +13,7 @@ Table of Contents
 * [Challenge Part 2F: Trevor](#2F)
 * [Challenge Part 3: The Final Thread](#3)
 
+<br/><br/>
 <a name="intro"></a>
 Intro
 ===
@@ -26,7 +27,7 @@ Finally, if you enjoy this sort of thing, I encourage you to join us in Discord 
 https://discord.com/channels/867438418212683796/867438418212683799  
 Thanks for reading!
   
-  
+<br/><br/>
 <a name="1"></a>
 Challenge Part 1: Gathering Notes
 ===
@@ -41,7 +42,7 @@ Once in this order, the measures form the beginning of the song "Peer Gynt Suite
 `GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
 ███ VIDEO OF P1 UNLOCK  
 
-
+<br/><br/>
 <a name="2"></a>
 Challenge Part 2: Calling YИИEႱ
 ===
@@ -56,7 +57,7 @@ Calling 903-5768 on these phones gave us a series of 5 clues about 5 missing fri
 The message also told us that for the remainder of these challenges, each answer will be a URL starting at `https://defcon.org/badge/30/`
 So we submit our answers by adding it to the end of that URL.  If we're right we find a new webpage with the next challenge, and if we're wrong we just get a standard 404 "not found" error.  We have 5 threads to follow now, one for each of the 5 missing friends.
 
-
+<br/><br/>
 <a name="2A"></a>
 Challenge Part 2A: Alice
 ===
@@ -80,7 +81,7 @@ This is a reference to the Common Measure, a poetic metre consisting of four lin
 `FINAL ANSWER: Call the number "86868686" on the contest phones to find Alice.`   
 ███ Pic of Alice in friends  
 
-
+<br/><br/>
 <a name="2B"></a>
 Challenge Part 2B: Bob
 ===
@@ -109,7 +110,7 @@ The QR code gives us the text "By the Numbers".  Keeping with the theme of the l
 The page gives us the text `./ - ../` and nothing else.  In a UNIX directory structure, "./" refers to your current directory and "../" refers to your parent directory.  In the case of our current challenge URL https://defcon.org/badge/30/logic/18002738255/988/23044100 (which is itself a reference to a directory structure), the "./" refers to 23044100 and "../" refers to 988.  Taking 23044100 minus 988 gives us 23043112.  
 `FINAL ANSWER: Call the number "23043112" on the contest phones to find Bob.`  
 
-
+<br/><br/>
 <a name="2C"></a>
 Challenge Part 2C: Carol
 ===
@@ -129,19 +130,17 @@ https://www.youtube.com/watch?v=N5aAu8CCQY0&ab_channel=DEFCONConference
 Searching the DEF CON archives (https://defcon.org/html/defcon-7/defcon-7-pre.html#SpeakingSchedule) shows us that this talk was given on Friday, July 9, 1999 at 4:00 PM PST, which is 11:00 PM in GMT.  Converting this to Epoch time gives us 931561200.  
 `FINAL ANSWER: Call the number 931561200 on the contest phones to find Carol.`  
 
-
+<br/><br/>
 <a name="2D"></a>
 Challenge Part 2D: Dan
 ===
 1) YИИEႱ's message said "Greenwich, Manhattan"  
-Every DC30 badge has at least four built-in sounds available in "Play" mode: Piano, Violin, Clarinet, and Dog.  Several badge types also have a fifth default sound option: for example, the Vendor (purple) badge has a "Cha-Ching" option that makes a cash register sound, the Goon (red) badge has a "Make a hole!" sound, etc.  The Village (orange) badge has the following fifth sound option called "Dial":  
-https://user-images.githubusercontent.com/22137377/185827130-9b8e777b-7a3a-4f48-b05f-5935ee9eaa99.mp4  
-<sup>NOTE: this file was obtained by reverse engineering the village badge firmware, see the wiki for links to more badge firmware</sup>  
+Every DC30 badge has at least four built-in sounds available in "Play" mode: Piano, Violin, Clarinet, and Dog.  Several badge types also have a fifth default sound option: for example, the Vendor (purple) badge has a "Cha-Ching" option that makes a cash register sound, the Goon (red) badge has a "Make a hole!" sound, etc.  The Village (orange) badge has the following fifth sound option called "Dial" (linked below)    
 This is an 8 digit DTMF tone (https://en.m.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) that decodes to "01906967", which turned out to be Dan's first URL.  We believe "Greenwich, Manhattan" is a clue for Dan's second challenge.  
 `ANSWER: https://defcon.org/badge/30/01906967`  
 
 
-https://user-images.githubusercontent.com/22137377/185828098-ca433b72-202a-42de-b565-934a78f423ff.mp4
+https://user-images.githubusercontent.com/22137377/185828716-b06e2f7d-e923-4945-88a4-6319f25836ac.mp4
 
 
 
@@ -154,7 +153,7 @@ We are given an image of the 1984 Ghostbusters.  Who ya gonna call?  Searching f
 https://www.facebook.com/Ghostbusters/photos/theyre-ready-to-answer-your-call-dial-212-897-1964-to-get-a-very-special-ghostbu/722572714463399  
 `FINAL ANSWER: Call the number "2128971964" on the contest phones to find Dan.`
 
-
+<br/><br/>
 <a name="2E"></a>
 Challenge Part 2E: Eve
 ===
@@ -178,7 +177,7 @@ https://en.wikipedia.org/wiki/T9_(predictive_text)
 Keeping with the AntiTrust theme, typing out the word "antitrust" in T9 gives us "268487878"  
 `FINAL ANSWER: Call the number "268487878" on the contest phones to find Eve.`  
 
-
+<br/><br/>
 <a name="2F"></a>
 Challenge Part 2F: Trevor  
 ===
@@ -187,7 +186,7 @@ Upon close inspection of the "Challenge" screen after completing Step 1, we noti
 https://www.youtube.com/watch?v=oOXcol_fFGQ&ab_channel=SAINTCON  
 `FINAL ANSWER: Call the number "923-2017" on the contest phones to find Trevor.`  
 
-
+<br/><br/>
 <a name="3"></a>
 Challenge Part 3: The Final Thread  
 ===
