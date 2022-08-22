@@ -208,7 +208,9 @@ Keeping with the AntiTrust theme, typing out the word "antitrust" in T9 gives us
 Challenge Part 2F: Trevor  
 ===
 1) #Trevorforget  
-Upon close inspection of the "Challenge" screen after completing Step 1, we notice that there is a single pixel in the upper-right corner of the screen which is blinking slowly.  Treating the blinks as morse code gives us `- .-. . ...- --- .-. ... -.. .- - .` which decodes to `TREVORSDATE`.  Trevor was a beloved member of the hacker community who was tragically taken from us on 9/23/2017.  
+Upon close inspection of the "Challenge" screen after completing Step 1, we notice that there is a single pixel in the upper-right corner of the screen which is blinking slowly.  
+![Trevor](/assets/trevor.gif)  
+Treating the blinks as morse code gives us `- .-. . ...- --- .-. ... -.. .- - .` which decodes to `TREVORSDATE`.  Trevor was a beloved member of the hacker community who was tragically taken from us on 9/23/2017.  
 https://www.youtube.com/watch?v=oOXcol_fFGQ&ab_channel=SAINTCON  
 `FINAL ANSWER: Call the number "923-2017" on the contest phones to find Trevor.`  
 ![Trevor](/assets/trevor.jpg)  
