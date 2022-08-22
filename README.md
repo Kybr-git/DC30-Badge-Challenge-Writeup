@@ -217,7 +217,7 @@ https://www.youtube.com/watch?v=oOXcol_fFGQ&ab_channel=SAINTCON
 <a name="3"></a>
 Challenge Part 3: The Final Thread  
 ===
-1) After unlocking all friends, calling YИИEႱ (9035786) again now gives us a new message: `slash here we go again rot13`  
+1) After unlocking all friends, calling YИИEႱ (9035768) again now gives us a new message: `slash here we go again rot13`  
 Taking the ROT13 (aka Caesar cipher) of the string "herewegoagain" gives us "urerjrtbntnva"  
 `ANSWER:` https://defcon.org/badge/30/urerjrtbntnva  
 
