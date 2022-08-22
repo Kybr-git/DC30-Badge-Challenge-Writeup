@@ -43,7 +43,11 @@ The first challenge can be found by selecting the "Challenge" option on the main
 
 ![Challenge One](/assets/c12.jpg)  
 
-This is a reference to the musical measures found on the faceplate of the badge itself.  There are 9 different colored badge types at DEF CON, and each type had something different on the faceplate.  Gathering photos of all 9, we find that 8 have music and 1 (the grey CFP badge) has letters spelling `POWWYGBR`  
+This is a reference to the musical measures found on the faceplate of the badge itself.  There are 9 different colored badge types at DEF CON, and each type had something different on the faceplate.  
+
+![Badges](/assets/badges.jpg)  
+
+Gathering photos of all 9, we find that 8 have music and 1 (the grey CFP badge) has letters spelling `POWWYGBR`  
 That's our key to ordering the other 8 badges by color: Purple, Orange, White, White, Yellow, Green, Blue, Red.  
 
 ![Badge faceplates](/assets/fronts2.jpg)  
