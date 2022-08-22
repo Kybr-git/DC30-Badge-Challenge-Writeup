@@ -140,6 +140,11 @@ https://user-images.githubusercontent.com/22137377/185827130-9b8e777b-7a3a-4f48-
 This is an 8 digit DTMF tone (https://en.m.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) that decodes to "01906967", which turned out to be Dan's first URL.  We believe "Greenwich, Manhattan" is a clue for Dan's second challenge.  
 `ANSWER: https://defcon.org/badge/30/01906967`  
 
+
+https://user-images.githubusercontent.com/22137377/185828098-ca433b72-202a-42de-b565-934a78f423ff.mp4
+
+
+
 2) Unchained Melody  
 We are given an audio file which plays "Unchained Melody".  This song is perhaps most famously featured in the "pottery" scene of the movie Ghost (1990).  The movie title Ghost, coupled with the earlier hint "Greenwich, Manhattan" (the setting for Ghostbusters), and the fact that we are looking for Dan, leads us to Dan Aykroyd - the actor who played Ray Stantz in the 1984 Ghostbusters movie.  
 `ANSWER: https://defcon.org/badge/30/01906967/aykroyd`
