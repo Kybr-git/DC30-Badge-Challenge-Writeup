@@ -21,7 +21,7 @@ Intro
 ===
 Hello there!  I'm Pete - aka Kybr - and this is my writeup for the DEF CON 30 badge challenge.  
 
-This year's challenge was heavily focused on music and hacker pop culture, which (I think) made it more widely accessible than some previous badge challenges.  We had a huge crew of hackers in person and on Discord working on the badge challenge from the moment they started handing out the badges Thursday morning all the way through Sunday afternoon, when we finally finished the last challenge just four hours before DEF CON ended.  Big thanks go out to Mike and crew at MKFactor for the truly unique and beautiful badge, and also for the many hours of ~~pain and suffering~~ fun!
+This year's challenge was heavily focused on music and hacker pop culture, which (I think) made it more widely accessible than some previous badge challenges.  We had a huge crew of hackers in person and on Discord working on the badge challenge from the moment they started handing out the badges Thursday morning all the way through Sunday afternoon, when we finally finished the last challenge just four hours before DEF CON ended.  Big thanks go out to Mike, redactd, and crew at MKFactor for the truly unique and beautiful badge, and also for the many hours of ~~pain and suffering~~ fun!
 
 We divided the challenge into 3 parts: gathering notes, gathering friends, and the final thread. You can look over our documentation here:  
 https://dc30badge.fandom.com/wiki/DC30Badge_Wiki  
