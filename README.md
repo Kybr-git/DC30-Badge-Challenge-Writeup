@@ -54,7 +54,9 @@ That's our key to ordering the other 8 badges by color: Purple, Orange, White, W
 
 Once in this order, the measures form the beginning of the song "Peer Gynt Suite No.1".  
 Playing these notes on the badge in "Play" mode unlocks Challenge Part 2:  
-`ANSWER: in Play mode, play these notes at any speed: GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
+`ANSWER: in Play mode, play these notes at any speed:`  
+`GEDCDE GEDCDE GEGAEA GEDC GEDCDE GEDCDEDE GEGAEA B G# F# E`  
+<sub> NOTE: You must be on the default "4" octave for this to work, if you hit left or right to change octave you will not unlock part 2! </sub>
 
 
 https://user-images.githubusercontent.com/22137377/185831822-232a2285-28f1-4f51-860c-354b4d5b5660.mp4
