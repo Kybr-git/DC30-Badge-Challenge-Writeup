@@ -39,7 +39,7 @@ The first challenge can be found by selecting the "Challenge" option on the main
 `Collect the Measusres`  
 `Break the Silence`  
 `Continue the Journey`  
-<sup>NOTE: The misspelling of the word Measures was accidental and not relevant to the challenges.  </sup>  
+<sub>NOTE: The misspelling of the word Measures was accidental and not relevant to the challenges.  </sub>  
 
 ![Challenge One](/assets/c12.jpg)  
 
